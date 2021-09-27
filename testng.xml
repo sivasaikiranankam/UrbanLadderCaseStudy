@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.UrbanLadder.Runner.Tc003_AboutUrbanLadder"/>
+      <class name="com.UrbanLadder.Runner.Tc002_cupboardprice"/>
+      <class name="com.UrbanLadder.Runner.Tc007_productcountinandoutstock"/>
+      <class name="com.UrbanLadder.Runner.Tc004_addingcart"/>
+      <class name="com.UrbanLadder.Runner.Tc010_Hoveringsofa"/>
+      <class name="com.UrbanLadder.Runner.Tc006_followerscount"/>
+      <class name="com.UrbanLadder.Runner.Tc_008_salesaddress"/>
+      <class name="com.UrbanLadder.Runner.Tc0055_CountImages"/>
+      <class name="com.UrbanLadder.Runner.Tc009_TrackOrderdatadrive"/>
+      <class name="com.UrbanLadder.Runner.AllTestCasesRunner"/>
+      <class name="com.UrbanLadder.Runner.Tc001_SearchItem"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

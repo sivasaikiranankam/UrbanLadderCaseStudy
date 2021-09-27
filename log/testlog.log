@@ -1,0 +1,77 @@
+2021-09-24 17:47:49,075 - Amazon -INFO - Intialized driver
+2021-09-24 17:47:53,134 - Amazon -INFO - Intialized driver
+2021-09-24 17:51:18,057 - Amazon -INFO - Intialized driver
+2021-09-24 17:51:20,323 - Amazon -INFO - Open Url
+2021-09-24 17:51:35,442 - Amazon -INFO - entered bed in searchbox
+2021-09-24 17:51:37,711 - Amazon -INFO - entered bed in searchbox
+2021-09-24 17:51:40,673 - Amazon -INFO - Intialized driver
+2021-09-24 17:51:42,708 - Amazon -INFO - open url
+2021-09-24 17:51:59,747 - Amazon -INFO - clicked cupboard button successfully
+2021-09-24 17:52:04,686 - Amazon -INFO - close driver
+2021-09-24 17:52:27,106 - Amazon -INFO - clicked on coffee tablestand
+2021-09-24 17:52:52,669 - Amazon -INFO - Clicked on AboutUs successfully
+2021-09-24 17:52:57,137 - Amazon -INFO - close driver
+2021-09-24 17:53:17,837 - Amazon -INFO - clicked on pinterest
+2021-09-24 17:53:17,869 - Amazon -INFO - navigated to pinterest website
+2021-09-24 17:53:42,440 - Amazon -INFO - clicked on bookshelf icon
+2021-09-24 17:53:43,977 - Amazon -INFO - window handling had done
+2021-09-24 17:54:09,384 - Amazon -INFO - clicked on study table
+2021-09-24 17:54:39,159 - Amazon -INFO - clicked on trackorder
+2021-09-24 17:54:39,437 - Amazon -INFO - entered order id
+2021-09-24 17:54:39,605 - Amazon -INFO - entered phone number
+2021-09-24 17:55:02,797 - Amazon -INFO - clicked on trackorder
+2021-09-24 17:55:02,943 - Amazon -INFO - entered order id
+2021-09-24 17:55:03,110 - Amazon -INFO - entered phone number
+2021-09-24 17:55:27,409 - Amazon -INFO - clicked on stores icon
+2021-09-24 17:55:29,626 - Amazon -INFO - hovered to city
+2021-09-24 17:56:06,288 - Amazon -INFO - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
+2021-09-25 19:14:41,061 - Amazon -INFO - Intialized driver
+2021-09-25 19:14:43,875 - Amazon -INFO - Open Url
+2021-09-25 19:14:58,077 - Amazon -INFO - entered bed in searchbox
+2021-09-25 19:15:06,083 - Amazon -INFO - entered bed in searchbox
+2021-09-25 19:15:08,819 - Amazon -INFO - Intialized driver
+2021-09-25 19:15:13,767 - Amazon -INFO - open url
+2021-09-25 19:15:30,854 - Amazon -INFO - clicked cupboard button successfully
+2021-09-25 19:15:32,622 - Amazon -INFO - close driver
+2021-09-25 19:15:55,141 - Amazon -INFO - clicked on coffee tablestand
+2021-09-25 19:16:23,273 - Amazon -INFO - Clicked on AboutUs successfully
+2021-09-25 19:16:24,145 - Amazon -INFO - close driver
+2021-09-25 19:16:48,667 - Amazon -INFO - clicked on pinterest
+2021-09-25 19:16:48,705 - Amazon -INFO - navigated to pinterest website
+2021-09-25 19:17:18,382 - Amazon -INFO - clicked on bookshelf icon
+2021-09-25 19:17:22,183 - Amazon -INFO - window handling had done
+2021-09-25 19:17:55,880 - Amazon -INFO - clicked on study table
+2021-09-25 19:18:30,269 - Amazon -INFO - clicked on trackorder
+2021-09-25 19:18:30,650 - Amazon -INFO - entered order id
+2021-09-25 19:18:30,841 - Amazon -INFO - entered phone number
+2021-09-25 19:18:55,326 - Amazon -INFO - clicked on trackorder
+2021-09-25 19:18:55,519 - Amazon -INFO - entered order id
+2021-09-25 19:18:55,752 - Amazon -INFO - entered phone number
+2021-09-25 19:19:20,279 - Amazon -INFO - clicked on stores icon
+2021-09-25 19:19:23,110 - Amazon -INFO - hovered to city
+2021-09-25 19:20:04,009 - Amazon -INFO - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
+2021-09-26 10:12:44,136 - Amazon -INFO - Intialized driver
+2021-09-26 10:12:46,225 - Amazon -INFO - Open Url
+2021-09-26 10:13:01,034 - Amazon -INFO - entered bed in searchbox
+2021-09-26 10:13:03,596 - Amazon -INFO - entered bed in searchbox
+2021-09-26 10:13:07,015 - Amazon -INFO - Intialized driver
+2021-09-26 10:13:09,393 - Amazon -INFO - open url
+2021-09-26 10:13:26,067 - Amazon -INFO - clicked cupboard button successfully
+2021-09-26 10:13:27,424 - Amazon -INFO - close driver
+2021-09-26 10:13:49,682 - Amazon -INFO - clicked on coffee tablestand
+2021-09-26 10:14:15,892 - Amazon -INFO - Clicked on AboutUs successfully
+2021-09-26 10:14:17,013 - Amazon -INFO - close driver
+2021-09-26 10:14:37,386 - Amazon -INFO - clicked on pinterest
+2021-09-26 10:14:37,420 - Amazon -INFO - navigated to pinterest website
+2021-09-26 10:15:01,559 - Amazon -INFO - clicked on bookshelf icon
+2021-09-26 10:15:03,190 - Amazon -INFO - window handling had done
+2021-09-26 10:15:32,004 - Amazon -INFO - clicked on study table
+2021-09-26 10:16:03,119 - Amazon -INFO - clicked on trackorder
+2021-09-26 10:16:03,402 - Amazon -INFO - entered order id
+2021-09-26 10:16:03,552 - Amazon -INFO - entered phone number
+2021-09-26 10:16:26,658 - Amazon -INFO - clicked on trackorder
+2021-09-26 10:16:26,865 - Amazon -INFO - entered order id
+2021-09-26 10:16:27,058 - Amazon -INFO - entered phone number
+2021-09-26 10:16:50,632 - Amazon -INFO - clicked on stores icon
+2021-09-26 10:16:52,668 - Amazon -INFO - hovered to city
+2021-09-26 10:17:31,316 - Amazon -INFO - CHECKING SOFA SPECIFICATION IS CHECKED OR NOT???
